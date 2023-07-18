@@ -1,2 +1,2 @@
 # mini-projetos
-Projetos de pequeno porte para praticar conceitos.
+Projetos de pequeno porte para praticar conceitos de desenvolvimento.
